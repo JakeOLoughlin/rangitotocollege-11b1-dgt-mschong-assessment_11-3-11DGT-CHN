@@ -1,0 +1,18 @@
+h1{text-align:center;}
+p{text-align:center;}
+ul{font-family: monospace;
+   font-size: 20px;
+   text-align:center;}
+
+.box{
+    width: 300px;
+    padding: 20px;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(20, 15, 32);
+}
+.dude{
+     display: flex;
+    justify-content: space-around;
+}
